@@ -35,9 +35,11 @@ Key model components:
 
 ## Example Results
 
-Visualizations generated during this study include:
-![RGB Approx](img/rgb.png)
-![Band-50 GreyScale](img/grayscale.png)
-![Ground Truth](img/groundTruth.png)
+<p float="left">
+  <img src="img/rgb.png" width="30%" alt="RGB Approx"/>
+  <img src="img/grayscale.png" width="30%" alt="Band-50 GreyScale"/>
+  <img src="img/groundTruth.png" width="30%" alt="Ground Truth"/>
+</p>
+
 
 Images are available in the `img/` directory and are referenced from the notebook.
